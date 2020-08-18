@@ -1,32 +1,79 @@
+header{
+    background-color: #010a26;
+    padding: 20px 0;
+}
+
+.caixa{
+    position: relative;
+    width: 1700px;
+    margin: 0 auto;
+}
+
+nav{
+    position: absolute;
+    top: 250px;
+    right: 350px;
+    
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #a98d75;
+}
+
 .titulo-principal{
     padding-left: 20px;
 }
 
 
-#banner{
+.banner{
     width: 100%;
 
 }
 
 .principal{
-    background-color: #B9B8B5;
+    /*background-color: #B9B8B5;*/
     padding: 30px;
 }
 
-h2{
+.titulo-principal{
     text-align: center;
+    font-size: 2em; /*fonte base x 2*/
+    margin: 0 0 1em;
+    clear: left;
 }
 
-p{
-    text-align: center;
+.principal p{
+    text-align: initial;
+    margin: 0 0 1em;
 }
 
-#missao {
+.principal strong{
+    font-weight: bold;
+}
+
+.principal em{
+    font-style: italic;
+    color: #2F3349;
     font-size: 20px; 
 }
 
-em strong{
-    color: #2F3349;
+.imagem-intro{
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
 }
 
 .comoFunciona{
@@ -43,12 +90,17 @@ ol{
 }
 
 .itens{
-font-style: italic;
-text-align: justify;
+    font-style: italic;
+    text-align: justify;
 }
 
 .imagemComoFunciona{
-    width: 50%;
+    width: 35%;
 
 }
 
+footer{
+    text-align: center;
+    background-color: #010a26;
+    padding: 5px 0;
+}
