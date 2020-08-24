@@ -23,7 +23,7 @@ nav li{
 
 nav a{
     text-transform: uppercase;
-    color: #010a26;
+    color: #06012B;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
@@ -35,7 +35,7 @@ nav a:hover{
 
 footer{
     text-align: center;
-    background-color: #010a26;
+    background-color: #06012B;
     padding: 5px 0;
 }
 
@@ -80,7 +80,7 @@ main{
 .botao-enviar{
     width: 60%;
     padding: 15px 0;
-    background-color: #010a26;
+    background-color: #06012B;
     color: #ffffff;
     font-weight: bold;
     font-size: 18px;
@@ -105,6 +105,6 @@ thead{
 }
 
 td, th{
-    border: 1px solid #010a26;
+    border: 1px solid #06012B;
     padding: 15px 8px;
 }

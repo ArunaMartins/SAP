@@ -23,7 +23,7 @@ nav li{
 
 nav a{
     text-transform: uppercase;
-    color: #010a26;
+    color: #06012B;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
@@ -63,14 +63,14 @@ nav a:hover{
 }
 
 .descricaoQueroLivro{
-    color: #010a26;
+    color: #06012B;
     font-weight: bold;
     font-size: 16px;
     margin: 10px 0 0;
 }
 
 .descricaoEnviarLivro{
-    color: #010a26;
+    color: #06012B;
     font-weight: bold;
     font-size: 16px;
     margin: 10px 0 0;
@@ -78,7 +78,7 @@ nav a:hover{
 
 footer{
     text-align: center;
-    background-color: #010a26;
+    background-color: #06012B;
     padding: 5px 0;
 }
 
